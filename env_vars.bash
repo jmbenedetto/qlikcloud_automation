@@ -14,10 +14,12 @@ test -e $DEACTIVATE_SCRIPT && rm $DEACTIVATE_SCRIPT
 mkdir -p $ACTIVATE_PATH
 touch $ACTIVATE_SCRIPT
 echo "#!/bin/sh" >> $ACTIVATE_SCRIPT
-echo "export QLIK_CLOUD_API_KEY=\"$(op read "op://Personal/JMB Tenant API Key/credential")\"" >> $ACTIVATE_SCRIPT
+echo "export QLIK_CLOUD_API_KEY_JM=\"$(op read "op://Personal/JMB Tenant API Key/credential")\"" >> $ACTIVATE_SCRIPT
+echo "export QLIK_CLOUD_API_KEY_SVE=\"$(op read "op://Personal/SVE Tenant API Key/credential")\"" >> $ACTIVATE_SCRIPT
 
 #create deactivate script
 mkdir -p $DEACTIVATE_PATH
 touch $DEACTIVATE_SCRIPT
 echo "#!/bin/sh" >> $DEACTIVATE_SCRIPT
-echo "unset QLIK_CLOUD_API_KEY" >> $DEACTIVATE_SCRIPT
+echo "unset QLIK_CLOUD_API_KEY_JM" >> $DEACTIVATE_SCRIPT
+echo "unset QLIK_CLOUD_API_KEY_SVE" >> $DEACTIVATE_SCRIPT
