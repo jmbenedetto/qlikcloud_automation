@@ -1,0 +1,29 @@
+id,name,type
+62f285dd1661fb1928bd19c7,12 - Internal Piloting (SVE),shared
+62f533df363576402b393389,01 - HR Demos (LoB) (Development),shared
+630fc642df0f30cabca891cf,11 - Collaborative Space (SVE),shared
+6311110bcf78ce1cfa00d5fb,Attux - Applications automatically imported from the CLI,shared
+6314e64edf0f30cabca9d392,coe_data,data
+63165061e59e085248183d2e,01 - HR Demos (LoB),managed
+631a717db589f79e3a7f5245,dev_restricted_access (sensitive data),shared
+63207d937ffe48774b646a57,02 - Finance Demos (LoB) (Development),shared
+63207dcc643866a5a4da4606,03 - Supply Chain Demos (LoB) (Development),shared
+63207df4cd38c4bbb4437196,04 - Sales Demos (LoB) (Development),shared
+63207e037ffe48774b646a81,05 - Marketing Demos (LoB) (Development),shared
+63207fb978f127ccec55e2bc,02 - Finance Demos (LoB),managed
+63207fc37ffe48774b646b02,03 - Supply Chain Demos (LoB),managed
+63207fcd643866a5a4da46a7,04 - Sales Demos (LoB),managed
+63207fd85c59b790f021963f,05 - Marketing Demos (LoB),managed
+6321cdb278f127ccec563301,00 - Non CoE Demos (Sandbox),shared
+6321d2045c59b790f021e863,01 - HR Demos (LoB) (Pre-Production),shared
+6321dfe5643866a5a4da9c0d,02 - Finance Demos (LoB) (Pre-Production),shared
+6321e004bf57f02d5e4750e0,03 - Supply Chain Demos (LoB) (Pre-Production),shared
+6321e0167ffe48774b64c022,04 - Sales Demos (LoB) (Pre-Production),shared
+6321e027643866a5a4da9c1e,05 - Marketing Demos (LoB) (Pre-Production),shared
+6323762a7ffe48774b652273,99 - Solutions Content CoE,shared
+6323778b78f127ccec569a7d,_data_connections,shared
+63405079edaf5ebb6ca1f45c,00 - Inbox,shared
+6340555143da473e8b89543d,99 - Others,shared
+634807155afb7cb59dbce488,13 - Value Engg Tools,shared
+634c6d76e166f5776f7d9591,_dev_tools,shared
+6351f554cba2a3fd0a958ee9,00 - Inbox (Automation - Extract Tables to QVDs),shared
