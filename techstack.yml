@@ -1,7 +1,8 @@
 repo_name: jmbenedetto/qlikcloud_automation
 report_id: 6a57ea7950909f7b603319a397546cc0
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T12:26:43+00:00'
+timestamp: '2024-01-05T08:46:26+00:00'
 requested_by: jmbenedetto
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: jmbenedetto
   last_updated_on: 2022-09-13 03:36:26.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: jmbenedetto
   last_updated_on: 2022-09-13 03:36:26.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation/blob/main/environment.yml
   detection_source: environment.yml
   last_updated_by: jmbenedetto
   last_updated_on: 2022-09-13 03:36:26.000000000 Z
@@ -59,6 +64,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -69,4 +75,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jmbenedetto/qlikcloud_automation
   detection_source: Repo Metadata
